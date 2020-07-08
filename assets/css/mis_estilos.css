@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.color33 {
+    color: white;
+}
+
+.color33:hover {
+    color: #00437E;
+    font-weight: bold;
+}
+
+.color11 {
+    color: rgb(39, 80, 116);
+}
