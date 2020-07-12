@@ -82,31 +82,32 @@
 			<div class="heading text-center mx-auto">
 				<h3 class="head">Cursos</h3>
 				<p class="my-3 head">
-                    <em>Ten claro que a la cima no llegarás superando a los demás, sino superándote a ti mismo</em>.
-                    <hr />Anónimo.
-                </p>
+					<em>Ten claro que a la cima no llegarás superando a los demás, sino superándote a ti mismo</em>.
+					<hr />Anónimo.
+				</p>
 			</div>
 
 			<!-- PARTE 11 -->
 			<div class="row mt-lg-5">
-				<!--<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="box-wrap">
 						<div class="icon">
-							<img src="assets/images/logos/platzi.png" alt="Logo de Platzi" width="60" height="60">
+							<img src="assets/images/logos/google.png" alt="Logo de Google" width="60" height="60">
 						</div>
 						<hr />
 						<div class="alto">
-							<h6><a href="descargas/certificados/2020ProgramacionBasica.pdf" target="_blank"><strong>Programación Básica</strong></a></h6>
+							<h6><a href="descargas/certificados/2020CloudComputing.pdf" target="_blank"><strong>Cloud Computing</strong></a></h6>
 						</div>
 						<hr />
 						<p class="alto2">
-							Platzi.
+							Google Actívate. Creado por la Escuela de Organización Industrial y 
+							desarrollado en colaboración con Red.es para Google.
 							Online.
-							3 de julio de <b>2020</b>.
-							35 hr.
+							11 de julio de <b>2020</b>.
+							40 hr.
 						</p>
 					</div>
-				</div>-->
+				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="box-wrap">
 						<div class="icon">

@@ -3,8 +3,11 @@
     <div class="footer-29 text-center">
         <div class="container">
             <div class="main-social-footer-29">
-                <a href="https://www.facebook.com/bazo.pedro" target="_blank" class="facebook"><span class="fa fa-facebook"></span></a>
+                <a href="https://www.facebook.com/HyS-Office-107321274381310/?view_public_for=107321274381310" target="_blank" class="facebook"><span class="fa fa-facebook"></span></a>
                 <a href="https://twitter.com/petrix12" target="_blank" class="twitter"><span class="fa fa-twitter"></span></a>
+                <a href="https://github.com/petrix12" target="_blank" class="github"><span class="fa fa-github"></span></a>
+                <a href="https://www.youtube.com/channel/UCgI3CMta_Vc4GHZwbzG3e-Q" target="_blank" class="youtube"><span class="fa fa-youtube"></span></a>
+
                 <a href="https://www.instagram.com/bazopedro/" target="_blank" class="instagram"><span class="fa fa-instagram"></span></a>
                 <!--<a href="#google-plus" class="google-plus"><span class="fa fa-google-plus"></span></a>-->
                 <a href="https://www.linkedin.com/in/pedro-bazo/" target="_blank" class="linkedin"><span class="fa fa-linkedin"></span></a>

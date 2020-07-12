@@ -193,4 +193,31 @@
             <img src="assets/images/logos/pipephase.jpg" width="55" height="25" alt="Simulador de Procesos Químicos Pipephase">
         </p>
     </div>
+    <div class="experience-top">
+        <h5>MAR 1996 - DIC 2002</h5>
+        <h4>Preparador de programación</h4>
+        <p class="my-3 text-white">
+            <img src="assets/images/logos/ucv.png" width="25" height="25" alt="Logo UCV">
+            <b>DEPARTAMENTO DE INVESTIGACIÓN DE OPERACIONES Y COMPUTACIÓN. 
+            Universidad Central de Venezuela. Ciudad Universitaria. Caracas.</b>
+            Encargado de asistir académicamente a los estudiantes de las materias del 
+            departamento en los laboratorios de PC, en las asignaturas: 
+            Programación (C/C++, Pascal y Delphi), 
+            uso de un sistema de dibujo asistido por un computador (AutoCAD), 
+            uso de un manejador de base de datos (Access), 
+            uso de una hoja de cálculo (Excel) y 
+            uso de un procesador de texto (Word).
+        </p>
+        <p class="my-3 text-white">
+            Principales tecnologías aplicadas:
+            <img src="assets/images/logos/pascal.png" width="25" height="25" alt="Turbo Pascal">
+            <img src="assets/images/logos/delphi.png" width="25" height="25" alt="Delphi">
+            <img src="assets/images/logos/c.png" width="25" height="25" alt="C">
+            <img src="assets/images/logos/cpp.png" width="25" height="25" alt="C++">
+            <img src="assets/images/logos/autocad.png" width="25" height="25" alt="Autocad">
+            <img src="assets/images/logos/access.png" width="25" height="25" alt="Microsoft Access">
+            <img src="assets/images/logos/excel.png" width="25" height="25" alt="Microsoft Excel">
+            <img src="assets/images/logos/word.png" width="25" height="25" alt="Microsoft Word">
+        </p>
+    </div>
 </div>

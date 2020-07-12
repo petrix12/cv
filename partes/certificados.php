@@ -2,6 +2,20 @@
     <h3 class="mb-5">Titulos y certificados</h3>
     <div class="experience-top">
         <h5>JUL 2020</h5>
+        <h4>Certificado: <a href="descargas/certificados/2020CloudComputing.pdf" target="_blank">Cloud Computing</a></h4>
+        <p class="my-3 text-white">
+            <img src="assets/images/logos/google.png" width="25" height="25" alt="Logo Google">
+            <img src="assets/images/logos/eoi.jpg" width="25" height="25" alt="Logo Escuela de Organización Industrial">
+            <img src="assets/images/logos/redes.png" width="25" height="25" alt="Logo Red.es">
+            <b>Google Actívate / Escuela de Organización Industrial / Red.es.</b>
+            Online. 40h.
+        </p>
+        <p class="my-3 text-white">
+            <img src="assets/images/logos/cloud.png" width="25" height="25" alt="Cloud">
+        </p>
+    </div>    
+    <div class="experience-top">
+        <h5>JUL 2020</h5>
         <h4>Certificado: <a href="descargas/certificados/2020MarcaPersonal.pdf" target="_blank">Marca Personal</a></h4>
         <p class="my-3 text-white">
             <img src="assets/images/logos/platzi.png" width="25" height="25" alt="Logo Platzi">
