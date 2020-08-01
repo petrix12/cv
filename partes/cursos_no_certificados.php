@@ -13,7 +13,7 @@
             </div>
             <div class="fea-gd-vv row mt-5 pt-3">
                 <div class="float-lt feature-gd col-lg-4 col-md-6">
-                    <div class="icon"><img src="assets/images/logos/idesweb.png" width="50" height="50" alt="iDESWEB"></div>
+                    <div><img src="assets/images/logos/idesweb.png" width="50" height="50" alt="iDESWEB"></div>
                     <div class="icon-info">
                         <h5><a href="http://idesweb.uaedf.ua.es/course" target="_blank">Introducción al desarrollo web</a></h5>
                         <p>
@@ -32,26 +32,44 @@
                         </p>
                     </div>
                 </div>
-                <!--
+
                 <div class="float-mid feature-gd col-lg-4 col-md-6 mt-md-0 mt-5">
-                    <div class="icon"> <span class="fa fa-cogs" aria-hidden="true"></span></div>
+                    <div><img src="assets/images/logos/youtube.png" width="50" height="50" alt="YouTube"></div>
                     <div class="icon-info">
-                        <h5>Desarrollo Back-end</h5>
+                        <h5><a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J-gfAERGDCdOQtVgRhSvIT" target="_blank">Curso de Vue JS desde cero</a></h5>
                         <p>
-                            Principalmente mediante el uso de las siguientes tecnologías: php y MySQL.
+                            Bluuweb.
+                            Curso publicado en YouTube.
+                            Dictado por Ignacio Gutiérrez.
+                            En curso.
+                            56 hr.
+                            <hr />
+                            <img src="assets/images/logos/vuejs.png" width="25" height="25" alt="Vue.JS">
+                            <img src="assets/images/logos/bootstrap.png" width="25" height="25" alt="Bootstrap">
+                            <img src="assets/images/logos/javascript.png" width="25" height="25" alt="Javascript">
                         </p>
                     </div>
                 </div>
-                <div class="float-rt feature-gd col-lg-4 col-md-6 mt-lg-0 mt-5">
-                    <div class="icon"> <span class="fa fa-check-square-o" aria-hidden="true"></span></div>
+
+                <div class="float-mid feature-gd col-lg-4 col-md-6 mt-md-0 mt-5">
+                    <div><img src="assets/images/logos/youtube.png" width="50" height="50" alt="YouTube"></div>
                     <div class="icon-info">
-                        <h5>Automatización de documentos</h5>
+                        <h5><a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4KHPEGngoy5PSjjxcwnpCdb" target="_blank">Curso de Laravel 5 desde cero</a></h5>
                         <p>
-                            Principalmente se automatizan documentos Word, PowerPoint y Excel,
-                            mediante el uso de VB para Aplicaciones.
+                            Bluuweb.
+                            Curso publicado en YouTube.
+                            Dictado por Ignacio Gutiérrez.
+                            En curso.
+                            48 hr.
+                            <hr />
+                            <img src="assets/images/logos/laravel.png" width="25" height="25" alt="Laravel">
+                            <img src="assets/images/logos/vuejs.png" width="25" height="25" alt="Vue.JS">
+                            <img src="assets/images/logos/bootstrap.png" width="25" height="25" alt="Bootstrap">
+                            <img src="assets/images/logos/php.png" width="25" height="25" alt="PHP">
                         </p>
                     </div>
                 </div>
+                <!--
                 <div class="float-lt feature-gd col-lg-4 col-md-6 mt-5">
                     <div class="icon"> <span class="fa fa-terminal" aria-hidden="true"></span></div>
                     <div class="icon-info">
