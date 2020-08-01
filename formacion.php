@@ -14,6 +14,14 @@
 		.alto2 {
 			height: 75px;
 		}
+
+		.alto3 {
+			height: 60px;
+		}
+
+		.alto4 {
+			height: 70px;
+		}
 	</style>
 </head>
 
@@ -767,7 +775,11 @@
 	<!-- //specifications -->
 	<!--
 	</section>-->
+	<hr />
+	<?php include "partes/cursos_cortos.php"; ?>
+	<hr />
 	<?php include "partes/cursos_no_certificados.php"; ?>
+	<hr />
 
 	<section class="w3l-subscribe" id="subscribe">
 		<div class="main-host py-5 text-center">

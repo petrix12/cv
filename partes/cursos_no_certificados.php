@@ -32,6 +32,7 @@
                         </p>
                     </div>
                 </div>
+                <!--
                 <div class="float-mid feature-gd col-lg-4 col-md-6 mt-md-0 mt-5">
                     <div class="icon"> <span class="fa fa-cogs" aria-hidden="true"></span></div>
                     <div class="icon-info">
@@ -82,6 +83,7 @@
                         </p>
                     </div>
                 </div>
+                -->
             </div>
         </div>
     </div>
